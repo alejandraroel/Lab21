@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{85DA044E-CCA2-42C2-8992-B1B1A34D8DCE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShop/Views/Register/Register.cshtml">
+    <Files>
+      <File FileName="CoffeeShop/Views/Home/Index.cshtml" Line="9" Column="1" />
+      <File FileName="CoffeeShop/Models/RegistrationViewModel.cs" Line="18" Column="45" />
+      <File FileName="CoffeeShop/Startup.cs" Line="1" Column="1" />
+      <File FileName="CoffeeShop/Controllers/HomeController.cs" Line="31" Column="9" />
+      <File FileName="CoffeeShop/Views/Home/Registration.cshtml" Line="4" Column="49" />
+      <File FileName="CoffeeShop/Controllers/RegisterController.cs" Line="24" Column="32" />
+      <File FileName="CoffeeShop/Views/Register/Register.cshtml" Line="7" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoffeeShop" expanded="True">
+            <Node name="CoffeeShop" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Register" expanded="True">
+                  <Node name="Register.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoffeeShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
